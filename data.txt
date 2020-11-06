@@ -1,0 +1,3 @@
+Sagar,Swyambhu,20,9803609163,sagar12345,sagarcrcoc@gmail.com
+Ashish,Gongabu,20,9803609162,asis123,ppashish@gmail.com
+Absek,Gongabu,20,9803609164,absek1234,abhishek.basnet.92@gmail.com
